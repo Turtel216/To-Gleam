@@ -42,8 +42,11 @@ This project builds upon the official tutorial by introducing additional feature
 - [ ] **Error Handling Improvements:**
    * Added better error messages and validations for user inputs.
 
-- [ ] **Unit Tests:**
+- [x] **Unit Tests:**
    * Added unit tests for core functionality to understand Gleam's testing ecosystem.
+
+- [ ] **Improve Unit Tests:**
+   * Improve unit tests by mocking databases and testing the api end points
 
 - [ ] Add user authentication.
 
