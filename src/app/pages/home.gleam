@@ -1,4 +1,4 @@
-import app/item.{type Item, Completed, Uncompleted}
+import app/models/item.{type Item, Completed, Uncompleted}
 import gleam/list
 import lustre/attribute.{autofocus, class, name, placeholder}
 import lustre/element.{type Element, text}

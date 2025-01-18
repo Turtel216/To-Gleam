@@ -1,4 +1,4 @@
-import app/item.{type Item}
+import app/models/item.{type Item}
 import gleam/bool
 import gleam/string_builder
 import wisp
